@@ -114,15 +114,6 @@ Spark-NLP |  NLP-library for use with Apache Spark | Easy to scale by extending 
 
 ***********
 
-
-
-<br>
-
-
-|Materialen|
-| --------- |
-| [ChatGPT uitgelegd](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD) |
-
 <br>
 
 ********
