@@ -47,35 +47,39 @@ Na afloop van deze workshop ben je instaat om
 
 ********
 # l2
-## NLP [2]: de bsis
+## NLP [2]: de basis
 ******** 
 
-## Natural Lanuage Processing [NLP] Defined
+## Natural Lanuage Processing [NLP] Gedefinieerd
 
-[Natural Language Processing (NLP)](https://www.ibm.com/cloud/learn/natural-language-processing) is a hybrid AI-discipline that is developed from [linguistics](https://en.wikipedia.org/wiki/Linguistics) and [computer science](https://en.wikipedia.org/wiki/Computer_science) to make human language intelligible to machines. 
-The computers’ availability in the 1960s gave rise to NLP applications on computers known as [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics). The structure of language is hierarchical comprising of seven levels each that constrain the use of computational linguistics. 
+[Natuurlijke Taalverwerking (NLP)](https://www.ibm.com/cloud/learn/natural-language-processing) is een hybride AI-discipline die is voortgekomen uit de  [taalkunde](https://en.wikipedia.org/wiki/Linguistics) en de[computerwetenschappen](https://en.wikipedia.org/wiki/Computer_science) om menselijke taal geschikt te maken voor verwerking met behulp van computers.
+
+De beschikbaarheid van computers in de jaren zestig leidde tot NLP-toepassingen die bekend staan als computationele taalkunde ([computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics)). NLP is van oorsprong gebaseerd op de hiërarchische structuur van taal. Deze hiërarchie bestaat uit zeven structuren elk met een specifieke functie.
 
 <br>
 
 
 <div align="center">
     
-    
-level top-to-bottom  | Structure | refers to 
------ | ----------| --------------------------------------------------------
-[1] | Phonology   | Elementary sounds
-[2] | Morphology  | Elementary combinations of letters and sounds, called Morphemes
-[3] | Lexical     | Individual words formed of Morphemes, called Lexemes
-[4] | Syntax      | Combination of words, grammatical structure of a sentence
-[5] | Semantics   | Rules used to convey meaning using the lower levels
-[6] | Pragmatics  | Behavioral constraints on the use of a specific language
-[7] | Discourse   | Multiple sentences together, rules about how they should relate to each other
+
+Taalniveau | Structuur | Verwijst naar
+------- | -------- | --------
+Fonologie | Elementaire geluiden | De basisbouwstenen van klank in een taal, zoals klinkers en medeklinkers.
+Morfologie | Elementaire combinaties van letters en geluiden, morfemen genoemd | De studie van de interne structuur van woorden, hoe ze worden gevormd door kleinere eenheden (morfemen) en hoe ze gerelateerd zijn aan elkaar.
+Lexicaal | Individuele woorden gevormd uit morfemen, lexemen genoemd | De woordenschat van een taal, bestaande uit alle afzonderlijke woorden die in die taal kunnen worden gebruikt.
+Syntaxis | Combinatie van woorden, grammaticale structuur van een zin | De regels die bepalen hoe woorden kunnen worden gecombineerd tot zinnen die grammaticaal correct en betekenisvol zijn.
+Semantiek | Regels gebruikt om betekenis over te brengen met behulp van de lagere niveaus | De studie van de betekenis van taalelementen, zoals woorden, zinnen en teksten.
+Pragmatiek | Gedragsbeperkingen op het gebruik van een specifieke taal | De studie van hoe context en intentie de betekenis van taaluitingen beïnvloeden.
+Discourse | Meerdere zinnen samen, regels over hoe ze zich tot elkaar moeten verhouden | De studie van hoe zinnen worden gecombineerd tot grotere tekstuele eenheden, zoals paragrafen en teksten, en hoe deze eenheden samenhangen.
+
     
 </div>      
 
 <br>
 
-Syntactic ---[parsing](https://en.wikipedia.org/wiki/Parsing)--- and semantic ---[semiotics](https://en.wikipedia.org/wiki/Semiotics)--- analysis of text and speech to determine the meaning of a sentence. Syntax refers to the grammatical structure of a sentence, while semantics alludes to its intended meaning. By allowing computers to automatically analyze massive sets of data, NLP can find meaningful information in just milliseconds. 
+Syntactische ---[parsing](https://en.wikipedia.org/wiki/Parsing)--- en semantische ---[semiotiek](https://en.wikipedia.org/wiki/Semiotics)--- analyse van tekst en spraak zijn nodig  om de betekenis van een zin te bepalen. Syntax verwijst naar de grammaticale structuur van een zin, terwijl semantiek verwijst naar de bedoelde betekenis. Door computers automatisch enorme hoeveelheden gegevens te laten analyseren, kan NLP betekenisvolle informatie vinden in slechts milliseconden. 
+
+Vertaald met DeepL.com (gratis versie)
 
  
 
