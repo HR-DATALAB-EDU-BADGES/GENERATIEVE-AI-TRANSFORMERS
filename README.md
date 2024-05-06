@@ -47,46 +47,13 @@ Na afloop van deze workshop ben je instaat om
 
 ********
 # l2
-## NLP [2]: de basis
+## [2] Natural Lanuage Processing [NLP] Gedefinieerd: de basis
 ******** 
-
-## Natural Lanuage Processing [NLP] Gedefinieerd
-
-[Natuurlijke Taalverwerking (NLP)](https://www.ibm.com/cloud/learn/natural-language-processing) is een hybride AI-discipline die is voortgekomen uit de  [taalkunde](https://en.wikipedia.org/wiki/Linguistics) en de[computerwetenschappen](https://en.wikipedia.org/wiki/Computer_science) om menselijke taal geschikt te maken voor verwerking met behulp van computers.
-
-De beschikbaarheid van computers in de jaren zestig leidde tot NLP-toepassingen die bekend staan als computationele taalkunde ([computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics)). NLP is van oorsprong gebaseerd op de hiërarchische structuur van taal. Deze hiërarchie bestaat uit zeven structuren elk met een specifieke functie.
-
-<br>
-
-
-<div align="center">
-    
-
-Taalniveau | Structuur | Verwijst naar
-------- | -------- | --------
-Fonologie | Elementaire geluiden | De basisbouwstenen van klank in een taal, zoals klinkers en medeklinkers.
-Morfologie | Elementaire combinaties van letters en geluiden, morfemen genoemd | De studie van de interne structuur van woorden, hoe ze worden gevormd door kleinere eenheden (morfemen) en hoe ze gerelateerd zijn aan elkaar.
-Lexicaal | Individuele woorden gevormd uit morfemen, lexemen genoemd | De woordenschat van een taal, bestaande uit alle afzonderlijke woorden die in die taal kunnen worden gebruikt.
-Syntaxis | Combinatie van woorden, grammaticale structuur van een zin | De regels die bepalen hoe woorden kunnen worden gecombineerd tot zinnen die grammaticaal correct en betekenisvol zijn.
-Semantiek | Regels gebruikt om betekenis over te brengen met behulp van de lagere niveaus | De studie van de betekenis van taalelementen, zoals woorden, zinnen en teksten.
-Pragmatiek | Gedragsbeperkingen op het gebruik van een specifieke taal | De studie van hoe context en intentie de betekenis van taaluitingen beïnvloeden.
-Discourse | Meerdere zinnen samen, regels over hoe ze zich tot elkaar moeten verhouden | De studie van hoe zinnen worden gecombineerd tot grotere tekstuele eenheden, zoals paragrafen en teksten, en hoe deze eenheden samenhangen.
-
-    
-</div>      
-
-<br>
-
-Syntactische ---[parsing](https://en.wikipedia.org/wiki/Parsing)--- en semantische ---[semiotiek](https://en.wikipedia.org/wiki/Semiotics)--- analyse van tekst en spraak zijn nodig  om de betekenis van een zin te bepalen. Syntax verwijst naar de grammaticale structuur van een zin, terwijl semantiek verwijst naar de bedoelde betekenis. Door computers automatisch enorme hoeveelheden gegevens te laten analyseren, kan NLP betekenisvolle informatie vinden in slechts milliseconden. 
-
-Vertaald met DeepL.com (gratis versie)
-
- 
 
 <details>
  <summary><h3>NLP covers two application-domains NLU + NLG</h3></summary>
 
-Natural Language Understanding [(NLU)](https://en.wikipedia.org/wiki/Natural-language_understanding): It is considered a "Hard AI-problem". The ambiguity and creativity of human language are just two of the characteristics that make NLP a demanding area to work in. The goal is to resolve ambiguities, obtain context and understand the meaning of what's being said. In particular, it tackles the complexities of language beyond the basic sentence structure. NLU is commonly used in [text mining](https://en.wikipedia.org/wiki/Text_mining) to understand consumer attitudes. In particular, sentiment analysis enables brands to monitor their customer feedback more closely, allowing them to cluster positive and negative social media comments and track net promoter scores. NLU can also establish a relevant [ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)): a data structure which specifies the relationships between words and phrases. While humans naturally do this in [conversation](https://en.wikipedia.org/wiki/Discourse_analysis), the combination of these analyses is required for a machine to understand the intended meaning of different texts.
+ Natural Language Understanding [(NLU)](https://en.wikipedia.org/wiki/Natural-language_understanding): It is considered a "Hard AI-problem". The ambiguity and creativity of human language are just two of the characteristics that make NLP a demanding area to work in. The goal is to resolve ambiguities, obtain context and understand the meaning of what's being said. In particular, it tackles the complexities of language beyond the basic sentence structure. NLU is commonly used in [text mining](https://en.wikipedia.org/wiki/Text_mining) to understand consumer attitudes. In particular, sentiment analysis enables brands to monitor their customer feedback more closely, allowing them to cluster positive and negative social media comments and track net promoter scores. NLU can also establish a relevant [ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)): a data structure which specifies the relationships between words and phrases. While humans naturally do this in [conversation](https://en.wikipedia.org/wiki/Discourse_analysis), the combination of these analyses is required for a machine to understand the intended meaning of different texts.
     
 Natural Language Generation [(NLG)](https://en.wikipedia.org/wiki/Natural_language_generation): While NLU focuses on computers to comprehend human language, NLG enables computers to write. Initially, NLG systems used templates to generate text. Based on some data or query, an NLG system would fill in the blank, like a game of Mad Libs. But over time, natural language generation systems have evolved with the application of hidden Markov chains, recurrent neural networks, and transformers, enabling more dynamic text generation in real time. Given an internal representation, this involves selecting the right words, forming phrases and sentences. Sentences need to ordered so that information is conveyed correctly. It produces a human language text response based on some data input. This text can also be converted into a speech format through text-to-speech services.
 
@@ -140,6 +107,7 @@ Spark-NLP |  NLP-library for use with Apache Spark | Easy to scale by extending 
 
 
 ***********
+
 
 
 <br>
