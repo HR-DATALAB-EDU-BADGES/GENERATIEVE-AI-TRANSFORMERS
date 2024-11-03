@@ -4,7 +4,7 @@
 
 Een hands-on introductie van de meest gebruikte open-source Transformer-modellen en hun toepassingen in Natural Language Processing (NLP). 
 
-Deze workshop is gebaseerd op de online beschikbare ["The Huggingface Course"](https://huggingface.co/learn/nlp-course/chapter1/).
+Deze workshop is gebaseerd op de online beschikbare ["The Huggingface Course"](https://huggingface.co/learn/nlp-course/chapter1/) en Langc hain .
 
 
 ## What kun je verwachten?
@@ -118,5 +118,15 @@ Spark-NLP |  NLP-library for use with Apache Spark | Easy to scale by extending 
 
 ********
 # l3
-## LEERDOEL [3]: Tekstgegevens kunnen importeren en visualiseren
+## [3] TRANSFORMERS: LLM 
 ******** 
+
+
+<!--
+https://www.datacamp.com/tutorial/how-transformers-work
+https://huggingface.co/learn/nlp-course/chapter1/3?fw=pt
+https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452
+https://jalammar.github.io/illustrated-transformer/
+https://ketanhdoshi.github.io/Transformers-Arch/
+https://www.youtube.com/watch?v=eMlx5fFNoYc
+->
